@@ -24,8 +24,6 @@ The report is organized into three analytical views:
 **Overview**  
 Provides an executive-level snapshot of overall business performance using core KPIs, geographic distribution, and high-level trends.
 
-<img width="1537" height="862" alt="Overview" src="https://github.com/user-attachments/assets/24487c82-a4c5-4d34-b046-07937eff6250" />
-
 **Customer Growth**  
 Focuses on customer behavior and engagement, including repeat purchasing patterns and order frequency.
 
