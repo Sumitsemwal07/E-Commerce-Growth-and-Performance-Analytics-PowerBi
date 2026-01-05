@@ -1,5 +1,6 @@
 # E-Commerce Growth & Performance Analytics
 A Power BI project designed to analyze e-commerce business performance with a focus on growth, customer behavior, and product-level efficiency.
+
 The project follows a real-world analytics approach, starting from raw transactional data and ending with interactive dashboards built for business decision-making rather than exploratory experimentation.
 
 ## Project Objective
