@@ -3,8 +3,6 @@ A Power BI project designed to analyze e-commerce business performance with a fo
 
 The project follows a real-world analytics approach, starting from raw transactional data and ending with interactive dashboards built for business decision-making rather than exploratory experimentation.
 
-<img width="1537" height="862" alt="Overview" src="https://github.com/user-attachments/assets/80741456-7742-4a78-ba38-599b6acefbc4" />
-
 ## Project Objective
 The primary objective of this project is to provide a clear and structured view of e-commerce performance by answering key business questions such as:
 
@@ -16,6 +14,7 @@ The primary objective of this project is to provide a clear and structured view 
 The dashboard emphasizes clarity, correctness, and analytical intent over visual novelty.
 
 ---
+<img width="1537" height="862" alt="Overview" src="https://github.com/user-attachments/assets/80741456-7742-4a78-ba38-599b6acefbc4" />
 
 ## Dashboard Structure
 
