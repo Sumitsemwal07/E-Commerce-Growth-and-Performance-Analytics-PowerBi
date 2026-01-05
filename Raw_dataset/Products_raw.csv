@@ -1,0 +1,151 @@
+product_id,product_name,category,sub_category
+PROD0001,Samsung Galaxy M34 2024 Edition,Electronics,Mobile Phones 
+PROD0002,Redmi Note 12,Electronics,Mobile Phones
+PROD0003,Apple iPhone 13 (Pro),Electronics,Mobile Phones
+PROD0004,OnePlus Nord CE,Electronics,Mobile Phones
+PROD0005,Boat Rockerz 450 Headphones (Pro),Electronics,Audio
+PROD0006,Sony WH-1000XM4 (Pro),Electronics,Audio
+PROD0007,JBL Flip Bluetooth Speaker (Blue),Electronics,Audio
+PROD0008,HP Wireless Mouse,electronics,Accessories
+PROD0009,Logitech Keyboard K380,Electronics,Accessories
+PROD0010,Dell 24-inch Monitor 2024 Edition,Electronics,Accessories
+PROD0011,Adidas Running Shoes,Fashion,Footwear
+PROD0012,Nike Air Max Shoes (Blue),Fashion,Footwear
+PROD0013,Puma Training Shoes (Blue),Fashion,Footwear
+PROD0014,Levi's Men's Jeans (Pro),Fashion,Clothing
+PROD0015,Allen Solly Formal Shirt,Fashion,Clothing
+PROD0016,Peter England Trousers (Black),Fashion,Clothing
+PROD0017,Wildcraft Backpack,Fashion,Accessories
+PROD0018,Fastrack Analog Watch (Pro),Fashion,Accessories
+PROD0019,Titan Smart Watch (Blue),Fashion,Accessories
+PROD0020,Prestige Pressure Cooker (Blue),Home & Kitchen,Appliances
+PROD0021,Philips Mixer Grinder (Black),home & kitchen,Appliances
+PROD0022,LG Microwave Oven,Home & Kitchen,Appliances
+PROD0023,IFB Washing Machine,Home & Kitchen,Appliances
+PROD0024,Cello Water Bottle,Home & Kitchen,Essentials 
+PROD0025,Milton Thermosteel Flask (Black),home & kitchen,Essentials
+PROD0026,Borosil Glass Container Set (Pro),home & kitchen,Essentials
+PROD0027,IKEA Study Table,Home & Kitchen,Furniture 
+PROD0028,Wakefit Queen Mattress (Black),Home & Kitchen,Furniture
+PROD0029,Nilkamal Plastic Chair 2024 Edition,Home & Kitchen,Furniture 
+PROD0030,Samsung Galaxy M34,electronics,Mobile Phones
+PROD0031,Redmi Note 12 (Pro),Electronics,Mobile Phones
+PROD0032,Apple iPhone 13 (Black),Electronics,Mobile Phones 
+PROD0033,OnePlus Nord CE 2024 Edition,Electronics,Mobile Phones
+PROD0034,Boat Rockerz 450 Headphones (Blue),Electronics,Audio
+PROD0035,Sony WH-1000XM4,Electronics,Audio
+PROD0036,JBL Flip Bluetooth Speaker (Black),Electronics,Audio
+PROD0037,HP Wireless Mouse 2024 Edition,Electronics,Accessories
+PROD0038,Logitech Keyboard K380 (Black),Electronics,Accessories
+PROD0039,Dell 24-inch Monitor (Black),electronics,Accessories
+PROD0040,Adidas Running Shoes (Blue),Fashion,Footwear
+PROD0041,Nike Air Max Shoes,fashion,Footwear
+PROD0042,Puma Training Shoes 2024 Edition,Fashion,Footwear
+PROD0043,Levi's Men's Jeans 2024 Edition,fashion,Clothing
+PROD0044,Allen Solly Formal Shirt,Fashion,Clothing 
+PROD0045,Peter England Trousers 2024 Edition,Fashion,Clothing
+PROD0046,Wildcraft Backpack 2024 Edition,Fashion,Accessories 
+PROD0047,Fastrack Analog Watch (Blue),Fashion,Accessories 
+PROD0048,Titan Smart Watch (Pro),Fashion,Accessories
+PROD0049,Prestige Pressure Cooker (Black),Home & Kitchen,Appliances
+PROD0050,Philips Mixer Grinder (Pro),Home & Kitchen,Appliances
+PROD0051,LG Microwave Oven (Blue),Home & Kitchen,Appliances
+PROD0052,IFB Washing Machine 2024 Edition,Home & Kitchen,Appliances
+PROD0053,Cello Water Bottle,home & kitchen,Essentials
+PROD0054,Milton Thermosteel Flask 2024 Edition,Home & Kitchen,Essentials
+PROD0055,Borosil Glass Container Set (Blue),home & kitchen,Essentials
+PROD0056,IKEA Study Table (Blue),Home & Kitchen,Furniture
+PROD0057,Wakefit Queen Mattress (Pro),Home & Kitchen,Furniture
+PROD0058,Nilkamal Plastic Chair,home & kitchen,Furniture
+PROD0059,Samsung Galaxy M34 (Black),Electronics,Mobile Phones
+PROD0060,Redmi Note 12 (Black),Electronics,Mobile Phones
+PROD0061,Apple iPhone 13 2024 Edition,Electronics,Mobile Phones
+PROD0062,OnePlus Nord CE 2024 Edition,Electronics,Mobile Phones
+PROD0063,Boat Rockerz 450 Headphones (Black),Electronics,Audio
+PROD0064,Sony WH-1000XM4,Electronics,Audio
+PROD0065,JBL Flip Bluetooth Speaker (Black),Electronics,Audio
+PROD0066,HP Wireless Mouse 2024 Edition,Electronics,Accessories
+PROD0067,Logitech Keyboard K380 (Blue),Electronics,Accessories
+PROD0068,Dell 24-inch Monitor,Electronics,Accessories
+PROD0069,Adidas Running Shoes (Pro),Fashion,Footwear
+PROD0070,Nike Air Max Shoes (Blue),Fashion,Footwear
+PROD0071,Puma Training Shoes (Black),fashion,Footwear
+PROD0072,Levi's Men's Jeans (Black),Fashion,Clothing
+PROD0073,Allen Solly Formal Shirt 2024 Edition,fashion,Clothing 
+PROD0074,Peter England Trousers,Fashion,Clothing
+PROD0075,Wildcraft Backpack 2024 Edition,Fashion,Accessories
+PROD0076,Fastrack Analog Watch (Blue),fashion,Accessories
+PROD0077,Titan Smart Watch (Pro),Fashion,Accessories
+PROD0078,Prestige Pressure Cooker,home & kitchen,Appliances
+PROD0079,Philips Mixer Grinder,Home & Kitchen,Appliances
+PROD0080,LG Microwave Oven,Home & Kitchen,Appliances
+PROD0081,IFB Washing Machine 2024 Edition,Home & Kitchen,Appliances 
+PROD0082,Cello Water Bottle (Pro),Home & Kitchen,Essentials
+PROD0083,Milton Thermosteel Flask,Home & Kitchen,Essentials
+PROD0084,Borosil Glass Container Set,Home & Kitchen,Essentials
+PROD0085,IKEA Study Table (Pro),home & kitchen,Furniture
+PROD0086,Wakefit Queen Mattress 2024 Edition,Home & Kitchen,Furniture
+PROD0087,Nilkamal Plastic Chair (Black),Home & Kitchen,Furniture
+PROD0088,Samsung Galaxy M34 (Pro),Electronics,Mobile Phones
+PROD0089,Redmi Note 12 (Pro),electronics,Mobile Phones
+PROD0090,Apple iPhone 13 (Pro),Electronics,Mobile Phones 
+PROD0091,OnePlus Nord CE (Black),Electronics,Mobile Phones
+PROD0092,Boat Rockerz 450 Headphones,Electronics,Audio 
+PROD0093,Sony WH-1000XM4 2024 Edition,electronics,Audio
+PROD0094,JBL Flip Bluetooth Speaker (Blue),Electronics,Audio
+PROD0095,HP Wireless Mouse,Electronics,Accessories
+PROD0096,Logitech Keyboard K380 2024 Edition,Electronics,Accessories
+PROD0097,Dell 24-inch Monitor,Electronics,Accessories
+PROD0098,Adidas Running Shoes (Blue),Fashion,Footwear
+PROD0099,Nike Air Max Shoes 2024 Edition,Fashion,Footwear 
+PROD0100,Puma Training Shoes (Black),Fashion,Footwear
+PROD0101,Levi's Men's Jeans,Fashion,Clothing
+PROD0102,Allen Solly Formal Shirt (Pro),Fashion,Clothing
+PROD0103,Peter England Trousers,Fashion,Clothing
+PROD0104,Wildcraft Backpack (Black),Fashion,Accessories
+PROD0105,Fastrack Analog Watch (Pro),Fashion,Accessories
+PROD0106,Titan Smart Watch 2024 Edition,Fashion,Accessories
+PROD0107,Prestige Pressure Cooker 2024 Edition,Home & Kitchen,Appliances
+PROD0108,Philips Mixer Grinder (Black),Home & Kitchen,Appliances
+PROD0109,LG Microwave Oven (Blue),Home & Kitchen,Appliances
+PROD0110,IFB Washing Machine,Home & Kitchen,Appliances
+PROD0111,Cello Water Bottle (Pro),Home & Kitchen,Essentials
+PROD0112,Milton Thermosteel Flask (Blue),Home & Kitchen,Essentials
+PROD0113,Borosil Glass Container Set (Blue),Home & Kitchen,Essentials
+PROD0114,IKEA Study Table (Pro),Home & Kitchen,Furniture
+PROD0115,Wakefit Queen Mattress (Pro),Home & Kitchen,Furniture
+PROD0116,Nilkamal Plastic Chair (Blue),Home & Kitchen,Furniture
+PROD0117,Samsung Galaxy M34 (Blue),Electronics,Mobile Phones
+PROD0118,Redmi Note 12 (Black),Electronics,Mobile Phones
+PROD0119,Apple iPhone 13,Electronics,Mobile Phones 
+PROD0120,OnePlus Nord CE (Pro),Electronics,Mobile Phones
+PROD0121,Boat Rockerz 450 Headphones,Electronics,Audio
+PROD0122,Sony WH-1000XM4,Electronics,Audio
+PROD0123,JBL Flip Bluetooth Speaker (Blue),Electronics,Audio
+PROD0124,HP Wireless Mouse (Blue),Electronics,Accessories 
+PROD0125,Logitech Keyboard K380,Electronics,Accessories 
+PROD0126,Dell 24-inch Monitor (Pro),Electronics,Accessories
+PROD0127,Adidas Running Shoes 2024 Edition,Fashion,Footwear
+PROD0128,Nike Air Max Shoes (Black),Fashion,Footwear
+PROD0129,Puma Training Shoes (Black),Fashion,Footwear
+PROD0130,Levi's Men's Jeans (Pro),Fashion,Clothing
+PROD0131,Allen Solly Formal Shirt,Fashion,Clothing
+PROD0132,Peter England Trousers 2024 Edition,Fashion,Clothing
+PROD0133,Wildcraft Backpack (Pro),Fashion,Accessories
+PROD0134,Fastrack Analog Watch (Blue),Fashion,Accessories
+PROD0135,Titan Smart Watch (Blue),Fashion,Accessories 
+PROD0136,Prestige Pressure Cooker,Home & Kitchen,Appliances
+PROD0137,Philips Mixer Grinder (Blue),Home & Kitchen,Appliances
+PROD0138,LG Microwave Oven (Pro),Home & Kitchen,Appliances
+PROD0139,IFB Washing Machine (Pro),Home & Kitchen,Appliances 
+PROD0140,Cello Water Bottle,Home & Kitchen,Essentials
+PROD0141,Milton Thermosteel Flask,Home & Kitchen,Essentials
+PROD0142,Borosil Glass Container Set (Blue),home & kitchen,Essentials 
+PROD0143,IKEA Study Table (Blue),Home & Kitchen,Furniture
+PROD0144,Wakefit Queen Mattress (Pro),home & kitchen,Furniture
+PROD0145,Nilkamal Plastic Chair,Home & Kitchen,Furniture 
+PROD0146,Samsung Galaxy M34 (Black),Electronics,Mobile Phones
+PROD0147,Redmi Note 12 (Blue),Electronics,Mobile Phones
+PROD0148,Apple iPhone 13 (Pro),Electronics,Mobile Phones
+PROD0149,OnePlus Nord CE (Blue),Electronics,Mobile Phones
+PROD0150,Boat Rockerz 450 Headphones (Black),Electronics,Audio
